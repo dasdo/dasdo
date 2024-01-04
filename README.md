@@ -4,7 +4,7 @@
 
 - 🔭 I am working in the company [gnexlabs](https://www.gnextlabs.com/)
 - 🌱 I’m currently learning aws services
-- 🥅 2021 Goals: launch my own application to improve the finances of those around me 
+- 🥅 2024 Goals: launch my own application to improve the finances of those around me 
 - ⚡ Fun fact: I love [league of legends](https://www.leagueoflegends.com)
 
 ### Connect with me:
